@@ -10,7 +10,7 @@
 ###### Complemented by a foundational understanding of DevOps, Database management, Authentication.
 
 
-##### I also enjoy wireframing, writing clean efficient code without redundancies, and constant self-development.
+###### I also enjoy wireframing, writing clean efficient code without redundancies, and constant self-development.
 
 ### Skills and Technologies:
 - ![](https://github.com/Chiamadi9/Chiamadi9/blob/main/download%20(2).png)    **Python**

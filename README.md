@@ -6,7 +6,9 @@
 
 ###### I am an aspiring Full-Stack Software Engineering Trainee kurrently taking the ALX ProDev program.
 
-###### With a blend of self-guided learning and formal ongoing training through a university-certified bootcamp at ALX Africa, I am honing strong skills in Full-Stack Engineering using tools such as: Python, JavaScript, React.js, HTML & CSS, Node.js, Git & Github, API Development.
+###### With a blend of self-guided learning and formal ongoing training through a university-certified bootcamp at ALX Africa, I am honing strong skills in Full-Stack Engineering using tools such as:
+###### Python, JavaScript, React.js, HTML & CSS, Node.js, Git & Github, API Development.
+
 ###### Complemented by a foundational understanding of DevOps, Database management, Authentication.
 
 ###### I also enjoy wireframing, writing clean efficient code without redundancies, and constant self-development.
